@@ -1,0 +1,25 @@
+button{
+  background-color: greenyellow;
+  border-radius: 4px;
+  height: 45px;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+.winp{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+  margin-top: 425px;
+  margin-left: 655px;
+}
+.scop{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+  margin-left: 655px;
+}
+button {
+  margin-left: 10px; /* Adds space between buttons */
+}
+
+.winp, .scop, .winner-options, .score-options {
+  margin-bottom: 20px; /* Space between groups of buttons */
+}
